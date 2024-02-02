@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.name             = 'FlagsmithClientNew'
   s.version          = '3.4.0'
   s.summary          = 'iOS Client written in Swift for Flagsmith. Ship features with confidence using feature flags and remote config.'
-  s.homepage         = 'https://github.com/Flagsmith/flagsmith-ios-client'
+  s.homepage         = 'https://github.com/rehanchrl/flagsmith-ios-client'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Kyle Johnson' => 'Kyle.johnson@flagsmith.com' }
   s.source           = { :git => 'https://github.com/rehanchrl/flagsmith-ios-client.git', :tag => s.version.to_s }
